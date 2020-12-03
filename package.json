@@ -1,0 +1,27 @@
+{
+  "name": "api-node-appTreino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusramyres/api-node-appTreino.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusramyres/api-node-appTreino/issues"
+  },
+  "homepage": "https://github.com/matheusramyres/api-node-appTreino#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.2",
+    "nodemon": "^2.0.6",
+    "require-dir": "^1.2.0"
+  }
+}
